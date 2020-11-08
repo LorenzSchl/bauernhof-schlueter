@@ -1,0 +1,5 @@
+#content{
+    max-width: 980px;
+    display: flex;
+    justify-content: center;
+}
