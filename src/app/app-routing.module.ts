@@ -1,7 +1,10 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router'; // CLI imports router
+import { LandingpageComponent } from './pages/landingpage/landingpage.component';
 
-const routes: Routes = []; // sets up routes constant where you define your routes
+const routes: Routes = [
+  {path: '', component: LandingpageComponent}
+]; // sets up routes constant where you define your routes
 
 // configures NgModule imports and exports
 @NgModule({

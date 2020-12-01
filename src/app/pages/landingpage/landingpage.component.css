@@ -1,0 +1,40 @@
+#landingpage{
+    height: 100%;
+}
+
+#landingpage-image {
+
+   /* The image used */
+   background-image: url(../../../assets/images/pexels-matthias-zomer-325257.jpg);
+
+   /* Add the blur effect */
+   filter: blur(1px);
+   -webkit-filter: blur(1px);
+ 
+   /* Full height */
+   height: 100%;
+ 
+   /* Center and scale the image nicely */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   z-index: -1;
+   margin-bottom: 3px;
+}
+
+#landingpange-content {
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+  }
+
+p {
+  margin-top: 0px;
+}
