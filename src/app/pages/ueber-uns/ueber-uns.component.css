@@ -1,0 +1,13 @@
+.ueber-uns-container {
+  height: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+.ueber-uns-card {
+  width: 90%;
+  margin: 0 auto;
+}
+.spacer {
+  padding-bottom: 15px;
+  width: 90%;
+}
