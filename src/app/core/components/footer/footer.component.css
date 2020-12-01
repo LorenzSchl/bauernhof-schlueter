@@ -8,4 +8,5 @@ span{
 
 #footer-toolbar{
     height: 64px;
+    position: fixed;
 }

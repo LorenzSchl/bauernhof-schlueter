@@ -1,0 +1,26 @@
+.oekolandbau-container{
+    width: 100%;
+    height: 100%;
+}
+.oekolandbau-section{
+    margin: 0 auto;
+    /* height: calc(100vh); */
+    min-height: 50vh;
+}
+
+.spacer{
+    max-width: 90%;
+    padding-bottom: 15px;
+    margin: 0 auto;
+}
+
+.oekolandbau-content{
+    max-width: 90%;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.even{
+    background-color: #048444;
+    color: white;
+}
