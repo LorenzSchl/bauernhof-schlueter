@@ -1,6 +1,6 @@
-.hof-container{
-    max-width: 960px;
+.tierhaltung-container{
     margin: 0 auto;
+    max-width: 960px;
     height: 100%;
 }
 
@@ -9,7 +9,7 @@
     padding-bottom: 15px;
 }
 
-.hof-content{
+.tierhaltung-content{
     max-width: 90%;
     margin: 0 auto;
 }

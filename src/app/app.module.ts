@@ -15,6 +15,7 @@ import { UeberUnsComponent } from './pages/ueber-uns/ueber-uns.component';
 import { from } from 'rxjs';
 import { ImageViewComponent } from './core/components/image-view/image-view.component';
 import { HofComponent } from './pages/hof/hof.component';
+import { TierhaltungComponent } from './pages/tierhaltung/tierhaltung.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { HofComponent } from './pages/hof/hof.component';
     LandingpageComponent,
     UeberUnsComponent,
     ImageViewComponent,
-    HofComponent
+    HofComponent,
+    TierhaltungComponent
   ],
   imports: [
     BrowserModule,
