@@ -2,8 +2,9 @@
   height: 100%;
   max-width: 960px;
   margin: 0 auto;
+  color: lightgrey;
 }
-.ueber-uns-card {
+.ueber-uns-content {
   width: 90%;
   margin: 0 auto;
 }
