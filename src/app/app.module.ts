@@ -14,6 +14,7 @@ import { LandingpageComponent } from './pages/landingpage/landingpage.component'
 import { UeberUnsComponent } from './pages/ueber-uns/ueber-uns.component';
 import { from } from 'rxjs';
 import { ImageViewComponent } from './core/components/image-view/image-view.component';
+import { HofComponent } from './pages/hof/hof.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { ImageViewComponent } from './core/components/image-view/image-view.comp
     FooterComponent,
     LandingpageComponent,
     UeberUnsComponent,
-    ImageViewComponent
+    ImageViewComponent,
+    HofComponent
   ],
   imports: [
     BrowserModule,

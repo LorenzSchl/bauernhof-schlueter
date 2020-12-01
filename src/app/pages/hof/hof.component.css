@@ -1,0 +1,14 @@
+.hof-container{
+    max-width: 960px;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.spacer{
+    max-width: 90%;
+    padding-bottom: 15px;
+}
+
+.hof-content{
+    max-width: 90%;
+}
